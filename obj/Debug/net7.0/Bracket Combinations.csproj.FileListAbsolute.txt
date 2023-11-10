@@ -1,0 +1,14 @@
+C:\Users\arifb\OneDrive\Sites\Bracket Combinations\bin\Debug\net7.0\Bracket Combinations.exe
+C:\Users\arifb\OneDrive\Sites\Bracket Combinations\bin\Debug\net7.0\Bracket Combinations.deps.json
+C:\Users\arifb\OneDrive\Sites\Bracket Combinations\bin\Debug\net7.0\Bracket Combinations.runtimeconfig.json
+C:\Users\arifb\OneDrive\Sites\Bracket Combinations\bin\Debug\net7.0\Bracket Combinations.dll
+C:\Users\arifb\OneDrive\Sites\Bracket Combinations\bin\Debug\net7.0\Bracket Combinations.pdb
+C:\Users\arifb\OneDrive\Sites\Bracket Combinations\obj\Debug\net7.0\Bracket Combinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arifb\OneDrive\Sites\Bracket Combinations\obj\Debug\net7.0\Bracket Combinations.AssemblyInfoInputs.cache
+C:\Users\arifb\OneDrive\Sites\Bracket Combinations\obj\Debug\net7.0\Bracket Combinations.AssemblyInfo.cs
+C:\Users\arifb\OneDrive\Sites\Bracket Combinations\obj\Debug\net7.0\Bracket Combinations.csproj.CoreCompileInputs.cache
+C:\Users\arifb\OneDrive\Sites\Bracket Combinations\obj\Debug\net7.0\Bracket Combinations.dll
+C:\Users\arifb\OneDrive\Sites\Bracket Combinations\obj\Debug\net7.0\refint\Bracket Combinations.dll
+C:\Users\arifb\OneDrive\Sites\Bracket Combinations\obj\Debug\net7.0\Bracket Combinations.pdb
+C:\Users\arifb\OneDrive\Sites\Bracket Combinations\obj\Debug\net7.0\Bracket Combinations.genruntimeconfig.cache
+C:\Users\arifb\OneDrive\Sites\Bracket Combinations\obj\Debug\net7.0\ref\Bracket Combinations.dll
