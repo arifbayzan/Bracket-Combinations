@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Transactions;
 
 class MainClass 
 {
@@ -7,12 +6,12 @@ class MainClass
   public static int BracketCombinations(int num) 
   {
     // code goes here  
-    return Factorial(2*num) / (Factorial(num+1)*Factorial(num));
+    return (Factorial(2*num)) / ((Factorial(num+1))*(Factorial(num)));
 
   }
   public static int Factorial(int number)
   {
-    if (number<=1)
+    if (number<=0)
     {
       return 1;
     }
@@ -27,12 +26,8 @@ class MainClass
 
     // keep this function call here
     Console.WriteLine("Enter number of Brackets:");
-    Console.WriteLine(BracketCombinations(int.Parse(Console.ReadLine())));
+    Console.WriteLine(BracketCombinations(Convert.ToInt32(Console.ReadLine())));
     
   }
 
-    private string GetDebuggerDisplay()
-    {
-        return ToString();
-    }
 }
