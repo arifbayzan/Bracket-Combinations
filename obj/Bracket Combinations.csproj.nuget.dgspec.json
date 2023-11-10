@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\arifb\\OneDrive\\Sites\\Bracket Combinations\\Bracket Combinations.csproj": {}
+    "C:\\Users\\arifb\\OneDrive\\Sites\\Bracket Combinations\\Bracket Combinations.csproj": {}
   },
   "projects": {
-    "c:\\Users\\arifb\\OneDrive\\Sites\\Bracket Combinations\\Bracket Combinations.csproj": {
+    "C:\\Users\\arifb\\OneDrive\\Sites\\Bracket Combinations\\Bracket Combinations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\arifb\\OneDrive\\Sites\\Bracket Combinations\\Bracket Combinations.csproj",
+        "projectUniqueName": "C:\\Users\\arifb\\OneDrive\\Sites\\Bracket Combinations\\Bracket Combinations.csproj",
         "projectName": "Bracket Combinations",
-        "projectPath": "c:\\Users\\arifb\\OneDrive\\Sites\\Bracket Combinations\\Bracket Combinations.csproj",
+        "projectPath": "C:\\Users\\arifb\\OneDrive\\Sites\\Bracket Combinations\\Bracket Combinations.csproj",
         "packagesPath": "C:\\Users\\arifb\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\arifb\\OneDrive\\Sites\\Bracket Combinations\\obj\\",
+        "outputPath": "C:\\Users\\arifb\\OneDrive\\Sites\\Bracket Combinations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
