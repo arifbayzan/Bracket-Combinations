@@ -6,7 +6,7 @@ class MainClass
   public static int BracketCombinations(int num) 
   {
     // code goes here  
-    return (Factorial(2*num)) / ((Factorial(num+1))*(Factorial(num)));
+    return ((Factorial(2*num)) / ((Factorial(num+1))*(Factorial(num))));
 
   }
   public static int Factorial(int number)
